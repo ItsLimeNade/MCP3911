@@ -5,7 +5,7 @@
 <h1 align="center">MCP3911</h1>
 
 <p align="center">
-A simple driver for the 4 channel ADC MCP3912 chip.
+A simple driver for the 4 channel ADC MCP3911 chip.
 </p>
 
 ---
